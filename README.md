@@ -1,7 +1,5 @@
 # flutter_travel_app
 
-![ezgif com-video-to-gif (5)](https://user-images.githubusercontent.com/30828060/82153072-eac26400-9882-11ea-8d9b-5e1edeec344d.gif)
-
 
 ## © License 
 ```
